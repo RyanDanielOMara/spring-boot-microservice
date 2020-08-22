@@ -1,4 +1,4 @@
-package com.ryandanielomara.models;
+package com.ryandanielomara.moviecatalogservice.models;
 
 public class CatalogItem {
 
